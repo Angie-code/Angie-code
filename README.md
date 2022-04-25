@@ -13,13 +13,13 @@ A general well mannered student, a tech-girl enthusiast that is interested in de
 ### Connect with me:
 
 &nbsp;&nbsp;
-<img src="youtube-dark.svg" href="https://www.youtube.com/channel/UC0fN92usmX_CyFgTbGGvb-g"/>
+[<img src="youtube-dark.svg"/>](https://www.youtube.com/channel/UC0fN92usmX_CyFgTbGGvb-g)
 &nbsp;&nbsp;
-<img src="twitter-dark.svg" href="https://twitter.com/c_angelaokorie"/>
+[<img src="twitter-dark.svg"/>](href="https://twitter.com/c_angelaokorie)
 &nbsp;&nbsp;
-<img src="linkedin-dark.svg" href="https://www.linkedin.com/in/chiamaka-angela/"/>
+[<img src="linkedin-dark.svg"/>](href="https://www.linkedin.com/in/chiamaka-angela/)
 &nbsp;&nbsp;
-<img src="instagram-dark.svg" href="https://www.instagram.com/c_angelaokorie/"/>
+[<img src="instagram-dark.svg"/>](href="https://www.instagram.com/c_angelaokorie/)
 
 <br />
 
@@ -34,11 +34,11 @@ A general well mannered student, a tech-girl enthusiast that is interested in de
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 
 <br />
