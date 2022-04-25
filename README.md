@@ -16,10 +16,10 @@ A general well mannered student, a tech-girl enthusiast that is interested in de
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC0fN92usmX_CyFgTbGGvb-g-dark-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC0fN92usmX_CyFgTbGGvb-g)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/c_angelaokorie-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/c_angelaokorie)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chiamaka-angela-okorie-9a190b173/-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chiamaka-angela-okorie-9a190b173/)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/c_angelaokorie/-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/c_angelaokorie/)
