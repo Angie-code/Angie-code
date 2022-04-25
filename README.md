@@ -12,10 +12,8 @@ A general well mannered student, a tech-girl enthusiast that is interested in de
 
 ### Connect with me:
 
-[<img src="/youtube-dark.svg"/>](https://www.youtube.com/channel/UC0fN92usmX_CyFgTbGGvb-g)
-[<img src="/twitter-dark.svg"/>](href="https://twitter.com/c_angelaokorie)
-[<img src="/linkedin-dark.svg"/>](href="https://www.linkedin.com/in/chiamaka-angela/)
-[<img src="/instagram-dark.svg"/>](href="https://www.instagram.com/c_angelaokorie/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chiamaka-angela/)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/chiamaka.okorie.526/)
 
 <br />
 
@@ -34,8 +32,6 @@ A general well mannered student, a tech-girl enthusiast that is interested in de
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
 
 <br />
 <br />
