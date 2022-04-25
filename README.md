@@ -5,7 +5,7 @@ A general well mannered student, a tech-girl enthusiast that is interested in de
 ## I'm a Student, Junior Developer, and Trianee!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🔭 I am working on Rech Projects: My Portfolio, Personal website and Team Project on Web Development and UI/UX design
+- 🔭 I am working on Tech Projects: My Portfolio, Personal website and Team Project on Web Development and UI/UX design
 - 👯 I’m looking to collaborate with Programmers and Teachers
 - 🥅 2022 Goals: To Learn JavaScript and UI/UX Design
 - ⚡ Fun fact: I love to dance and play puzzles
