@@ -15,6 +15,7 @@ A general well mannered student, a tech-girl enthusiast that is interested in de
 
 ### Connect with me:
 
+[<img align="left" alt="Angie-code|YouTube" width="22px" src="https://cdn:jsdelivr.net/npm/simple-icons@v3/icon/youtube.svg"/>][https://www.youtube.com/channel/UC0fN92usmX_CyFgTbGGvb-g]
 &nbsp;&nbsp;
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC0fN92usmX_CyFgTbGGvb-g)
 &nbsp;&nbsp;
