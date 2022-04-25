@@ -13,8 +13,7 @@ A general well mannered student, a tech-girl enthusiast that is interested in de
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website]<img src="youtube-light.svg" href="https://www.youtube.com/channel/UC0fN92usmX_CyFgTbGGvb-g-light-mode-only"/>
-[![website]<img src="youtube-dark.svg" href="https://www.youtube.com/channel/UC0fN92usmX_CyFgTbGGvb-g-dark-mode-only"/>
+<img src="youtube-light.svg" href="https://www.youtube.com/channel/UC0fN92usmX_CyFgTbGGvb-g-light-mode-only"/>
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/c_angelaokorie-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/c_angelaokorie-dark-mode-only)
