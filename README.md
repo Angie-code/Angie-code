@@ -2,7 +2,7 @@
 
 A general well mannered student, a tech-girl enthusiast that is interested in development and designs, funny when happy and outspokenly reserved for formal purposes.
 
-## I'm a Student, Junior Web Developer, and Trianee!!
+## I'm a Student, Web Developer, and Trianee!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I am working on Tech Projects: My Portfolio, Personal website and Team Project on Web Development and UI/UX design
