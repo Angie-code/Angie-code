@@ -8,7 +8,7 @@ A general well mannered student, a tech-girl enthusiast that is interested in de
 - 🔭 I am working on Tech Projects: My Portfolio, Personal website and Team Project on Web Development and UI/UX design
 - 👯 I’m looking to collaborate with Programmers and Teachers
 - 🥅 2022 Goals: To Learn JavaScript and UI/UX Design
-- ⚡ Fun fact: I love to dance and play puzzles
+- ⚡ Fun fact: I love to dance and play puzzle games
 
 ### Connect with me:
 
