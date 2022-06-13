@@ -5,12 +5,12 @@ A general-well-mannered student, a tech-girl enthusiast that is interested in de
 ## I'm a Student, Junior Web Developer, and Trianee!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🔭 I am working on Tech Projects: My Portfolio, Personal website and some Team's Project on Web Development and UI/UX design
+- 🔭 I am working on Tech Projects: My Portfolio, Personal websites and some Team's Project on Web Development and UI/UX design
 - 👯 I look forward to collaborate with Programmers and intermidiate coders like myself.
 - 🥅 2022 Goals: To Learn Frontend Web Development and UI/UX Design
 - ⚡ Fun fact: I love to dance and play puzzle games
 
-### Connect with me:
+### Connect with me on:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chiamaka-angela/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/chiamaka.okorie.526/)
