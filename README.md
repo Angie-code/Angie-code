@@ -7,7 +7,7 @@ A general-well-mannered student, a tech-girl enthusiast that is interested in de
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I am working on Tech Projects: My Portfolio, Personal websites and some Team's Project on Web Development and UI/UX design.
 - 👯 I look forward to collaborate with Programmers and intermidiate coders like myself.
-- 🥅 2022 Goals: To Learn Frontend Web Development and UI/UX Design.
+- 🥅 2022 Goals: To Learn Frontend Web Development along side UI/UX Design.
 - ⚡ Fun fact: I love to dance and play puzzle games.
 
 ### Connect with me on:
