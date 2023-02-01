@@ -1,13 +1,13 @@
-## Hello there, I'm Chiamaka
+## Hello there, I'm Chiamaka Angela
 
 A general-well-mannered student, a tech-girl enthusiast that is interested in development and designs, funny when happy and outspokenly reserved for formal purposes.
 
 ## I'm a Student, Junior Web Developer, and Trainee!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🔭 I am working on Tech Projects: My Portfolio, Personal websites and some Team's Project on Web Development and UI/UX design.
+- 🔭 I am working on Tech Projects: My Portfolio, Personal websites and some Team's Project on Web Development and Blochchain Develoment.
 - 👯 I look forward to collaborate with Programmers and intermidiate coders like myself.
-- 🥅 2022 Goals: To Learn Frontend Web Development along side UI/UX Design.
+- 🥅 2023 Goals: Learning Web Development along.
 - ⚡ Fun fact: I love to dance and play puzzle games.
 
 ### Connect with me on:
